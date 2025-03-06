@@ -9,3 +9,11 @@
 2. https://www.csoonline.com/article/3253899/the-best-new-windows-10-security-features.html
 3. https://docs.microsoft.com/en-us/windows/security/identity-protection/credential-guard/credential-guard-manage
 4. https://lolbas-project.github.io/
+ ---
+
+ # Search engines
+- using "" will search for the exact phrase inside quotes
+- using `Site: ` will let you search for a specific domain ex.) `Site: TryHackMe.com success stories`
+- `-` will let you exclude searches ex.) `Pyramids -tourism` excludes results related to tourists
+- `filetype:` allows yous to specify what kind of file is returned in results ex. `filetype:PDF cybersecurity`
+    - can be PDF, DOC, XLS, PPT
