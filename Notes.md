@@ -5,6 +5,7 @@
 4. Active directory contains network roles groups and security policies
 5.  In the CMD `systeminfo` will display os information as well as system details
 6.  `type` `more` command work similar to cat in linux where it displays content of a file
+7.  After typing a command adding `/?` will commonly show a lits of parameters you can add to the end of the command and what they do
 
 --- 
 # Further learning on windows to read
