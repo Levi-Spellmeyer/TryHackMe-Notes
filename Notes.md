@@ -3,6 +3,7 @@
 2. System config `MSConfig` is for advanced troubleshooting in relation to startup issues.
 3. Computer management `compmgmt` can be used to find infor about users and groups among other things
 4. Active directory contains network roles groups and security policies
+5.  In the CMD `systeminfo` will display os information as well as system details
 
 --- 
 # Further learning on windows to read
