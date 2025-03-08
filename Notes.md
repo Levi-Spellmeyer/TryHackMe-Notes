@@ -4,6 +4,7 @@
 3. Computer management `compmgmt` can be used to find infor about users and groups among other things
 4. Active directory contains network roles groups and security policies
 5.  In the CMD `systeminfo` will display os information as well as system details
+6.  `type` `more` command work similar to cat in linux where it displays content of a file
 
 --- 
 # Further learning on windows to read
