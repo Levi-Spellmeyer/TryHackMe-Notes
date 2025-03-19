@@ -21,3 +21,6 @@
 - `-` will let you exclude searches ex.) `Pyramids -tourism` excludes results related to tourists
 - `filetype:` allows yous to specify what kind of file is returned in results ex. `filetype:PDF cybersecurity`
     - can be PDF, DOC, XLS, PPT
+ 
+ # Tcpdump cheat sheet
+ - https://www.stationx.net/tcpdump-cheat-sheet/ 
